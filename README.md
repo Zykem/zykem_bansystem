@@ -6,7 +6,9 @@
 3. Add `ensure zykem_bansystem` to your server.cfg and type ```refresh\nrestart zykem_bansystem``` in your server console
 
 <h1>Usage</h1>
+
 # Commands
+
 ```lua
 /identifiers - shows your identifiers
 /zban targetId duration reason -- /zban 1 1d Cheating
